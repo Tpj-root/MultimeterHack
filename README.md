@@ -3,6 +3,45 @@ I plan to create a system to read and visualize the data from my digital multime
 
 
 
+
+### MAS830L
+
+
+<img src="pcb_hack/mas830l.png" width="180" height="140">
+
+```
+
+Feature
+
+● Display 2000 counts. 
+● Diode Open Voltage 3.0V.
+● Data Hold. 
+● Low Battery Display. 
+● Transistor Test.
+● Continuity Buzzer <70 ±30Ω. 
+● Display Backlight. 
+ 
+
+https://www.mastech-group.com/global/en/mas830l.html
+
+
+```
+
+
+<img src="pcb_hack/FandB.png" width="180" height="140">
+
+
+<img src="pcb_hack/Segment.png" width="180" height="140">
+
+
+
+
+
+
+
+
+
+
 **Project: Multimeter Data Interface**
 
 I plan to create a system to read and visualize the data from my digital multimeter on a computer. My multimeter has a digital display showing all measurement outputs. The idea is to capture this data directly from the display and send it to a PC for real-time monitoring.
@@ -86,9 +125,4 @@ This shows the **flow from solar panel → multimeter → Arduino → PC**, clea
 
 
 
-
-<img src="pcb_hack/FandB.png" width="180" height="140">
-
-
-<img src="pcb_hack/Segment.png" width="180" height="140">
 
